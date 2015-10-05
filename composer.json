@@ -1,6 +1,6 @@
 {
-    "name": "smottt/wideimage",
-    "description": "An open-source PHP library for image manipulation. (With namespaces, PHP 5.3+)",
+    "name": "timh5/wideimage",
+    "description": "An open-source PHP library for image manipulation. (With namespaces, PHP 5.3+) ... cloned from Smott but needed because their MASTER had a bug conflicting with Composer",
     "homepage": "http://wideimage.sourceforge.net",
     "type": "library",
     "license": ["GPL-2.0","LGPL-2.1"],
